@@ -1,4 +1,4 @@
 package com.Array;
 
-public class array2 {
+public class hello {
 }
